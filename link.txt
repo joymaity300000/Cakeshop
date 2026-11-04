@@ -16,3 +16,5 @@ wireframme= https://www.youtube.com/watch?v=N_RJElSZgsc
 video= https://drive.google.com/file/d/1Q9lfee-1hK71CbFaLf_UTD4RvJuhYwPy/view?usp=sharing
 
 project github = https://github.com/joy30000/cake
+
+to start npm start
